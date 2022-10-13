@@ -1,0 +1,28 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prenom: rayane
+Nom: guenot
+Mode de paiement: Especes
+Sur place ou emporter: Emporter
+Commande: 
+    - Carpaccio de boeuf fraichement tranche
+    - Pizza Diavolata
+    - Bouteille d eau
+Addition: 23 euro
+Thu Oct 13 11:49:46 2022
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Prenom: dsg
+Nom: gdr
+Mode de paiement: Carte bleu
+Sur place ou emporter: Sur place
+Commande: 
+    - 
+    - 
+    - 
+Addition: 0 euro
+Thu Oct 13 11:50:01 2022
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
